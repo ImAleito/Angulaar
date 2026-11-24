@@ -1,0 +1,72 @@
+{
+  "hash": "dc82c821",
+  "configHash": "b42830a5",
+  "lockfileHash": "3adc907d",
+  "browserHash": "10addc40",
+  "optimized": {
+    "@angular/core": {
+      "src": "../../../../../../../node_modules/@angular/core/fesm2022/core.mjs",
+      "file": "@angular_core.js",
+      "fileHash": "64d6ee05",
+      "needsInterop": false
+    },
+    "@angular/core/rxjs-interop": {
+      "src": "../../../../../../../node_modules/@angular/core/fesm2022/rxjs-interop.mjs",
+      "file": "@angular_core_rxjs-interop.js",
+      "fileHash": "89ccb5a0",
+      "needsInterop": false
+    },
+    "@angular/platform-browser": {
+      "src": "../../../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
+      "file": "@angular_platform-browser.js",
+      "fileHash": "8cf01047",
+      "needsInterop": false
+    },
+    "@angular/router": {
+      "src": "../../../../../../../node_modules/@angular/router/fesm2022/router.mjs",
+      "file": "@angular_router.js",
+      "fileHash": "dd90a3e1",
+      "needsInterop": false
+    },
+    "ng2-charts": {
+      "src": "../../../../../../../node_modules/ng2-charts/fesm2022/ng2-charts.mjs",
+      "file": "ng2-charts.js",
+      "fileHash": "d556a7c6",
+      "needsInterop": false
+    },
+    "rxjs": {
+      "src": "../../../../../../../node_modules/rxjs/dist/esm5/index.js",
+      "file": "rxjs.js",
+      "fileHash": "cfeeb4a4",
+      "needsInterop": false
+    },
+    "zone.js": {
+      "src": "../../../../../../../node_modules/zone.js/fesm2015/zone.js",
+      "file": "zone__js.js",
+      "fileHash": "2bf211c6",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "_resource-chunk-BDn7tGmL": {
+      "file": "_resource-chunk-BDn7tGmL.js",
+      "isDynamicEntry": false
+    },
+    "core-kAmoMmf0": {
+      "file": "core-kAmoMmf0.js",
+      "isDynamicEntry": false
+    },
+    "esm5-Doa4YBQt": {
+      "file": "esm5-Doa4YBQt.js",
+      "isDynamicEntry": false
+    },
+    "objectSpread2-7HcptuV8": {
+      "file": "objectSpread2-7HcptuV8.js",
+      "isDynamicEntry": false
+    },
+    "platform-browser-BobjKtX1": {
+      "file": "platform-browser-BobjKtX1.js",
+      "isDynamicEntry": false
+    }
+  }
+}
